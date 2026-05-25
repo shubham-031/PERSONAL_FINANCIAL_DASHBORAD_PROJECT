@@ -4,37 +4,37 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'Product 1',
             description: 'Customized Shoes',
             price: '$59.99',
-            image: 'Images/download (3).jpeg'
+            image: '../Images/download (3).jpeg'
         },
         {
             title: 'Product 2',
             description: 'Cool Headset',
             price: '$29.99',
-            image: 'Images/download (4).jpeg'
+            image: '../Images/download (4).jpeg'
         },
         {
             title: 'Product 3',
             description: 'Elite Black Edition Watch',
             price: '$39.99',
-            image: 'Images/download (5).jpeg'
+            image: '../Images/download (5).jpeg'
         },
         {
             title: 'Product 4',
             description: 'Latest Smartphone',
             price: '$79.99',
-            image: 'Images/download (7).jpeg'
+            image: '../Images/download (7).jpeg'
         },
         {
             title: 'Product 5',
             description: 'Most Stylish Laptop',
             price: '$129.99',
-            image: 'Images/download (8).jpeg'
+            image: '../Images/download (8).jpeg'
         },
         {
             title: 'Product 6',
             description: 'Stylish Backpack',
             price: '$9.99',
-            image: 'Images/download (9).jpeg'
+            image: '../Images/download (9).jpeg'
         }
     ];
 

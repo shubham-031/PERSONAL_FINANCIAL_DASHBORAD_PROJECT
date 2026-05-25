@@ -26,14 +26,18 @@ body {
     margin-bottom: 20px;
 }
 
+
 .budgeting-tool form {
     margin-bottom: 20px;
 }
 
-.budgeting-tool label {
+
+.budgeting-tool label {  
     display: block;
-    margin: 10px 0 5px;
-    text-align: left;
+    margin: 10px 0 5px;  
+    text-align: left;   
+
+    
 }
 
 .budgeting-tool input[type="text"],
